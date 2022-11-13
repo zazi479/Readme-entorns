@@ -8,10 +8,9 @@ Una vez registrados, haced clic en el botón "Read the guide" que os guiará par
 
 Una vez creado, el aspecto de dicho repositorio será parecido a esto:
 
-![](https://github.com/zazi479/Readme-entorns/blob/1897a8e68c2813d99213862d6eaf9921aa33887b/fotos/segundo.jpg){width=width height=height}
+![](https://github.com/zazi479/Readme-entorns/blob/1897a8e68c2813d99213862d6eaf9921aa33887b/fotos/segundo.jpg)
 
 
-Una vez creado el repositorio en github vamos a clonarlo para usarlo en nuestro ordenador.
-
-Iniciamos la consola en nuestro ordenador e iniciamos git con:
-
+Una vez creado el repositorio en github vamos a clonarlo para usarlo en nuestro ordenador:
+-Utilizando el comando **git clone**
+![](https://github.com/zazi479/Readme-entorns/blob/d0f11e8f9fc5095252c0431f3d2de1ab3df73850/fotos/tercer%20.jpg)
