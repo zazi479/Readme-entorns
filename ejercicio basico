@@ -1,4 +1,12 @@
-Ejercicio básico. 
+##Ejercicio básico. 
 
-<h1>Crear un repositorio</h1>
+##Crear un repositorio
 Una vez registrados, haced clic en el botón "Read the guide" que os guiará para crear un nuevo repositorio en github.
+![texto_alternativo] (C:\Users\zazi1\OneDrive\Imágenes\entornos)
+
+Una vez creado, el aspecto de dicho repositorio será parecido a esto:
+
+
+Una vez creado el repositorio en github vamos a clonarlo para usarlo en nuestro ordenador.
+
+Iniciamos la consola en nuestro ordenador e iniciamos git con:
