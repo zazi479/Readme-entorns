@@ -1,5 +1,5 @@
-# Readme-entorns
-## Ejercicio básico. 
+
+# Ejercicio básico. Parte A
 
 ## Crear un repositorio
 
@@ -22,7 +22,9 @@ Donde [url] es la url del repositorio a clonar. Para ver la url, haced clic en e
 Y ahora si ejecutamos el comando-
 ![](https://github.com/zazi479/Readme-entorns/blob/d0f11e8f9fc5095252c0431f3d2de1ab3df73850/fotos/tercer%20.jpg)
 
-## Ejercicio básico. Parte B.
+Al hacerlo, creará un directorio .git oculto donde irá almacenado toda la información relativa al estado de la copia local.
+
+# Ejercicio básico. Parte B.
 
 Repetimos el ejercicio básico pero utilizando como proveedor remoto gitlab
 
@@ -39,9 +41,14 @@ Una vez creado, el aspecto de dicho repositorio será parecido a esto:
 
 Una vez creado el repositorio en gilab vamos a clonarlo para usarlo en nuestro ordenador.
 El comando es: **git clone**
-![](https://github.com/zazi479/Readme-entorns/blob/e6457534bacc13ebc749a702392c25c72bbb1c8b/fotos/uno.cuatr.jpg)
 git clone [url]
 
 Donde [url] es la url del repositorio a clonar. Para ver la url, haced clic en el botón "Clone or download"
-![](https://github.com/zazi479/Readme-entorns/blob/e98e2a5a612369337ed8be33a18dcb4bcf5365fa/fotos/uni.jpg)
+
+![]([https://github.com/zazi479/Readme-entorns/blob/e98e2a5a612369337ed8be33a18dcb4bcf5365fa/fotos/uni.jpg](https://github.com/zazi479/Readme-entorns/blob/ab84353f2ace9eba2204232ab8f6560432510544/fotos/dosi.jpg)
+Y ahora ejecutamos el comando.
+![](https://github.com/zazi479/Readme-entorns/blob/e6457534bacc13ebc749a702392c25c72bbb1c8b/fotos/uno.cuatr.jpg)
+
+Al hacerlo, creará un directorio .git oculto donde irá almacenado toda la información relativa al estado de la copia local.
+
 
