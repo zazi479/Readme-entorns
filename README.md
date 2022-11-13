@@ -24,6 +24,9 @@ Y ahora si ejecutamos el comando-
 
 Al hacerlo, creará un directorio .git oculto donde irá almacenado toda la información relativa al estado de la copia local.
 
+
+
+
 # Ejercicio básico. Parte B.
 
 Repetimos el ejercicio básico pero utilizando como proveedor remoto gitlab
