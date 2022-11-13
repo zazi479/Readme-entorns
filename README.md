@@ -8,10 +8,8 @@ Una vez registrados, haced clic en el botón "Read the guide" que os guiará par
 
 Una vez creado, el aspecto de dicho repositorio será parecido a esto:
 
-![](https://github.com/zazi479/Readme-entorns/blob/1897a8e68c2813d99213862d6eaf9921aa33887b/fotos/segundo.jpg)
-<p align="center">
-  <img width="460" height="300" src="https://github.com/zazi479/Readme-entorns/blob/1897a8e68c2813d99213862d6eaf9921aa33887b/fotos/segundo.jpg">
-</p>
+<center>![](https://github.com/zazi479/Readme-entorns/blob/1897a8e68c2813d99213862d6eaf9921aa33887b/fotos/segundo.jpg)</center>
+
 
 Una vez creado el repositorio en github vamos a clonarlo para usarlo en nuestro ordenador.
 
