@@ -55,3 +55,4 @@ Y ahora ejecutamos el comando.
 Al hacerlo, creará un directorio .git oculto donde irá almacenado toda la información relativa al estado de la copia local.
 
 
+añadir una frasre
