@@ -56,3 +56,6 @@ Al hacerlo, creará un directorio .git oculto donde irá almacenado toda la info
 
 
 añadir una frasre
+
+una frase mas
+
